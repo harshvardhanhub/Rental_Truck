@@ -1,0 +1,38 @@
+{
+    "trucks": [
+      {
+        "id": 1,
+        "make": "Ford",
+        "model": "F-150",
+        "year": 2022,
+        "color": "Black",
+        "mileage": 10000,
+        "price": 50,
+        "availability": true,
+        "image": "https://example.com/truck1.jpg"
+      },
+      {
+        "id": 2,
+        "make": "Chevrolet",
+        "model": "Silverado",
+        "year": 2021,
+        "color": "Red",
+        "mileage": 15000,
+        "price": 60,
+        "availability": true,
+        "image": "https://example.com/truck2.jpg"
+      },
+      {
+        "id": 3,
+        "make": "Ram",
+        "model": "1500",
+        "year": 2020,
+        "color": "White",
+        "mileage": 20000,
+        "price": 55,
+        "availability": false,
+        "image": "https://example.com/truck3.jpg"
+      }
+    ]
+  }
+  
