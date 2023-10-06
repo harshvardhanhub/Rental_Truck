@@ -1,4 +1,4 @@
-* {
+{
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -61,8 +61,8 @@ header nav ul li a:hover {
 }
 
 .banner-text h1 {
-  font-size: 40px;
-  margin-bottom: 20px;
+  font-size: 45px;
+  margin-bottom: 15px;
   color: #000000;
 }
 
@@ -74,8 +74,8 @@ header nav ul li a:hover {
 
 .button {
   display: inline-block;
-  padding: 10px 20px;
-  background-color: #588ac0;
+  padding: 10px 30px;
+  background-color: #007bff;
   color: #fff;
   text-decoration: none;
   border-radius: 25px;
@@ -87,25 +87,25 @@ header nav ul li a:hover {
 }
 
 #services {
-  padding: 40px 0;
+  padding: 10px 0; /* Fix the comma to space here */
   text-align: center;
 }
 
 #services h2 {
-  font-size: 40px;
+  font-size: auto;
   font-weight: bold;
   margin-bottom: 30px;
   color: #fc0000;
 }
 
 .service-item {
-  max-width: 300px;
+  width: 300px;
   margin: 0 auto 30px;
 }
 
 .service-item img {
-  max-width: 100%;
-  border-radius: 25px;
+  width: 250px;
+  border-radius: 20px;
   margin-bottom: 20px;
 }
 
