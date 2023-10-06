@@ -26,14 +26,14 @@ header nav ul li {
 }
 
 header nav ul li a {
-  color: #000;
+  color: #000000;
   font-weight: bold;
   text-decoration: none;
   transition: color 0.3s ease-in-out;
 }
 
 header nav ul li a:hover {
-  color: #ff0000;
+  color: #ff2f00;
 }
 
 .video {
